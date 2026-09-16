@@ -1,4 +1,4 @@
 # Krishna-demo
 This is my basic Clear of Git Repository.
 <br>
-Author-Krishna swain
+Author-Krishna (Hard work)
